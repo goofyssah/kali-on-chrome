@@ -3,8 +3,7 @@ a bash script to run on chromebooks Linux and turn it into Kali Linux(with deskt
 script cleaned up by chatgpt and inspired by https://www.youtube.com/watch?v=hU23MvWbB34&t=353s 
 
 
-# installation 
-# Kali XFCE on ChromeOS Crostini
+# Kali Linux on ChromeOS Crostini
 
 Easily set up a Kali Linux desktop (XFCE) inside your ChromeOS Linux (Crostini) container using this automated script. Runs in a nested X server with `Xephyr`.
 
