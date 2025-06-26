@@ -11,7 +11,7 @@ Easily set up a Kali Linux desktop (XFCE) inside your ChromeOS Linux (Crostini) 
 ## 🚀 Quick Install
 
 ```bash
-git clone https://github.com/yourusername/kali-crostini.git
-cd kali-crostini
+git clone https://github.com/goofyssah/kali-on-chrome.git
+cd kali-on-chrome
 chmod +x install-kali-desktop.sh
 ./install-kali-desktop.sh
